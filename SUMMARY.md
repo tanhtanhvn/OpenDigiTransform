@@ -28,6 +28,7 @@
   * [Chuyển đổi số ngành thông tin khoa học và công nghệ để hội nhập quốc tế](bai-viet-trao-doi/ung-dung-chuyen-doi-so/chuyen-doi-so-nganh-thong-tin-khoa-hoc-va-cong-nghe-de-hoi-nhap-quoc-te.md)
 * [AI viết về GovTech](bai-viet-trao-doi/ai-viet-ve-govtech/README.md)
   * [GovTech: Khi Công nghệ Trở Thành Nền Tảng Quản Trị Quốc Gia](bai-viet-trao-doi/ai-viet-ve-govtech/govtech-khi-cong-nghe-tro-thanh-nen-tang-quan-tri-quoc-gia.md)
+  * [Sức Mạnh Nguồn Mở: Bệ Phóng Cho GovTech và Chuyển Đổi Số Quốc Gia](bai-viet-trao-doi/ai-viet-ve-govtech/suc-manh-nguon-mo-be-phong-cho-govtech-va-chuyen-doi-so-quoc-gia.md)
   * [5 Tiết Lộ Bất Ngờ Về Cuộc Cách Mạng Dữ Liệu Thầm Lặng Của Chính Phủ](bai-viet-trao-doi/ai-viet-ve-govtech/5-tiet-lo-bat-ngo-ve-cuoc-cach-mang-du-lieu-tham-lang-cua-chinh-phu.md)
   * [5 Tiết Lộ Bất Ngờ Về Công Nghệ Đang Vận Hành Chính Phủ](bai-viet-trao-doi/ai-viet-ve-govtech/5-tiet-lo-bat-ngo-ve-cong-nghe-dang-van-hanh-chinh-phu.md)
 
