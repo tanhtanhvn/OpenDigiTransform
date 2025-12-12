@@ -26,9 +26,10 @@
   * [CĐS để góp phần vào tăng trưởng xanh từ góc nhìn của Luật Bảo vệ môi trường năm 2020](bai-viet-trao-doi/ung-dung-chuyen-doi-so/cds-de-gop-phan-vao-tang-truong-xanh-tu-goc-nhin-cua-luat-bao-ve-moi-truong-nam-2020.md)
   * [Ứng dụng công nghệ phòng, chống dịch Covid-19](bai-viet-trao-doi/ung-dung-chuyen-doi-so/ung-dung-cong-nghe-phong-chong-dich-covid-19.md)
   * [Chuyển đổi số ngành thông tin khoa học và công nghệ để hội nhập quốc tế](bai-viet-trao-doi/ung-dung-chuyen-doi-so/chuyen-doi-so-nganh-thong-tin-khoa-hoc-va-cong-nghe-de-hoi-nhap-quoc-te.md)
-* [Bài viết bằng AI](bai-viet-trao-doi/bai-viet-bang-ai/README.md)
-  * [5 Tiết Lộ Bất Ngờ Về Cuộc Cách Mạng Dữ Liệu Thầm Lặng Của Chính Phủ](bai-viet-trao-doi/bai-viet-bang-ai/5-tiet-lo-bat-ngo-ve-cuoc-cach-mang-du-lieu-tham-lang-cua-chinh-phu.md)
-  * [5 Tiết Lộ Bất Ngờ Về Công Nghệ Đang Vận Hành Chính Phủ](bai-viet-trao-doi/bai-viet-bang-ai/5-tiet-lo-bat-ngo-ve-cong-nghe-dang-van-hanh-chinh-phu.md)
+* [AI viết về GovTech](bai-viet-trao-doi/ai-viet-ve-govtech/README.md)
+  * [GovTech: Khi Công nghệ Trở Thành Nền Tảng Quản Trị Quốc Gia](bai-viet-trao-doi/ai-viet-ve-govtech/govtech-khi-cong-nghe-tro-thanh-nen-tang-quan-tri-quoc-gia.md)
+  * [5 Tiết Lộ Bất Ngờ Về Cuộc Cách Mạng Dữ Liệu Thầm Lặng Của Chính Phủ](bai-viet-trao-doi/ai-viet-ve-govtech/5-tiet-lo-bat-ngo-ve-cuoc-cach-mang-du-lieu-tham-lang-cua-chinh-phu.md)
+  * [5 Tiết Lộ Bất Ngờ Về Công Nghệ Đang Vận Hành Chính Phủ](bai-viet-trao-doi/ai-viet-ve-govtech/5-tiet-lo-bat-ngo-ve-cong-nghe-dang-van-hanh-chinh-phu.md)
 
 ## CHUYÊN ĐỀ ĐÀO TẠO
 

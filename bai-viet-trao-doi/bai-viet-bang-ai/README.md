@@ -1,2 +1,0 @@
-# Bài viết bằng AI
-
