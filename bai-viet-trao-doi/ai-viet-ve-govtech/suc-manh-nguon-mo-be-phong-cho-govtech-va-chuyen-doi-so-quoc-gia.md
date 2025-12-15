@@ -8,7 +8,7 @@ Tuy nhiên, con đường này không phải lúc nào cũng rõ ràng. Cách đ
 
 Ngày nay, cục diện đã thay đổi ngoạn mục. Chính Microsoft đã trở thành một trong những người ủng hộ lớn nhất cho nguồn mở. Sự thay đổi này không đơn thuần là một động thái kinh doanh, mà là sự thừa nhận một thực tế không thể đảo ngược: đổi mới trong kỷ nguyên số phát triển mạnh mẽ nhất trong môi trường hợp tác, không phải trong các khu vườn đóng kín. Các công nghệ nguồn mở đang trở thành động lực chính thúc đẩy GovTech. Bài viết này sẽ làm rõ luận điểm: công nghệ nguồn mở không chỉ là một giải pháp tiết kiệm chi phí mà còn là một lựa chọn chiến lược để xây dựng nền tảng chính phủ số linh hoạt, an toàn và tự chủ cho bất kỳ quốc gia nào.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. GovTech là gì và Tại sao Nguồn Mở lại Quan trọng?
 
@@ -49,7 +49,7 @@ Dưới đây là các công cụ mã nguồn mở phổ biến cho từng lớp
   * Mã hóa ổ đĩa: VeraCrypt là công cụ mạnh mẽ để mã hóa toàn bộ ổ đĩa hệ thống hoặc các thiết bị lưu trữ ngoài, đảm bảo dữ liệu được bảo vệ ngay cả khi thiết bị bị mất cắp.
   * Mã hóa truyền tải: OpenSSL là thư viện mật mã nền tảng cho gần như toàn bộ Internet, cung cấp nền tảng cho giao thức HTTPS, đảm bảo an toàn cho dữ liệu trên đường truyền.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4. Nguồn Mở Thúc Đẩy Các Công Nghệ Tiên Phong trong GovTech
 
