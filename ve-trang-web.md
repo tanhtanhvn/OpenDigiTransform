@@ -19,7 +19,7 @@ TS. Tạ Tuấn Anh hiện là Phó Tổng Giám đốc Công ty Cổ phần FDS
 
 Với hơn hai thập kỷ kinh nghiệm sâu sắc trong cả lĩnh vực học thuật và ứng dụng công nghệ, TS. Tuấn Anh đã có những đóng góp quan trọng trong việc định hình và phát triển các hệ thống thông minh phục vụ chuyển đổi số tại Việt Nam.
 
-Ông khởi đầu sự nghiệp giảng dạy tại Đại học Bách Khoa Hà Nội (1997), nơi ông từng giữ chức Phó Viện trưởng Viện Công nghệ thông tin. Năm 2005, ông hoàn thành bằng Tiến sĩ tại Pháp với luận án chuyên sâu về Web ngữ nghĩa - một lĩnh vực nền tảng cho việc xử lý và tổ chức dữ liệu thông minh ngày nay.
+Ông khởi đầu sự nghiệp giảng dạy tại Đại học Bách Khoa Hà Nội (1997), nơi ông từng giữ chức Phó Viện trưởng Viện Công nghệ Thông tin và Truyền thông. Năm 2005, ông hoàn thành bằng Tiến sĩ tại Pháp với luận án chuyên sâu về Web ngữ nghĩa - một lĩnh vực nền tảng cho việc xử lý và tổ chức dữ liệu thông minh ngày nay.
 
 Sau đó, ông chuyển sang công tác nghiên cứu tại Viện Hàn lâm Khoa học và Công nghệ Việt Nam (2011-2016) với vai trò Phó Giám đốc Trung tâm Tin học và Tính toán. Trong giai đoạn này, ông đã chủ nhiệm các đề tài nghiên cứu cấp nhà nước về xây dựng tiêu chuẩn, quy chuẩn kỹ thuật cho các hệ thống Giao thông thông minh (ITS), khẳng định vai trò tiên phong trong việc ứng dụng công nghệ vào cơ sở hạ tầng quốc gia.
 
@@ -27,4 +27,4 @@ Từ năm 2016 đến nay, TS. Tuấn Anh là đồng sáng lập Công ty Cổ 
 
 #### Công cụ AI
 
-Trong quá trình tạo lập nội dung cho trang web này, Tác giả đã sử dụng các công cụ AI như ChatGPT để biên tập nôi dùng và Gemini để tạo sinh các hình ảnh và bài trình bày.
+Trong quá trình tạo lập nội dung cho trang web này, Tác giả đã sử dụng các công cụ AI như ChatGPT để trợ giúp biên tập nôi dùng và Gemini để tạo sinh các hình ảnh và bài trình bày.
