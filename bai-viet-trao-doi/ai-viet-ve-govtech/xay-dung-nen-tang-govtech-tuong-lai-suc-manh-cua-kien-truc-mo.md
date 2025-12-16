@@ -4,7 +4,7 @@ GovTech, hay Công nghệ Chính phủ, không đơn thuần là việc số hó
 
 Tầm nhìn về một nền tảng GovTech hiện đại là xây dựng một hệ thống mô-đun, linh hoạt, được kết nối qua các giao diện lập trình ứng dụng (API) và lấy người dùng làm trung tâm. Thay vì mỗi cơ quan tự xây dựng một hệ thống riêng biệt, mô hình mới hướng đến việc tạo ra các khối xây dựng (building blocks) có thể tái sử dụng trên toàn chính phủ. Bài viết này sẽ phân tích một mô hình kiến trúc cho Nền tảng Phát triển Ứng dụng GovTech dựa trên các công nghệ nguồn mở, một phương pháp chiến lược nhằm tăng tốc độ phát triển, giảm chi phí và thúc đẩy sự đổi mới sáng tạo trong khu vực công.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Tầm nhìn chiến lược: "Chính phủ như một Nền tảng" (Government as a Platform - GaaP)
 
