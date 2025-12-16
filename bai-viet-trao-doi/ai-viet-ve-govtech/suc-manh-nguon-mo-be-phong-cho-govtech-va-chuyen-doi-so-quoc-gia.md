@@ -8,7 +8,7 @@ Tuy nhiên, con đường này không phải lúc nào cũng rõ ràng. Cách đ
 
 Ngày nay, cục diện đã thay đổi ngoạn mục. Chính Microsoft đã trở thành một trong những người ủng hộ lớn nhất cho nguồn mở. Sự thay đổi này không đơn thuần là một động thái kinh doanh, mà là sự thừa nhận một thực tế không thể đảo ngược: đổi mới trong kỷ nguyên số phát triển mạnh mẽ nhất trong môi trường hợp tác, không phải trong các khu vườn đóng kín. Các công nghệ nguồn mở đang trở thành động lực chính thúc đẩy GovTech. Bài viết này sẽ làm rõ luận điểm: công nghệ nguồn mở không chỉ là một giải pháp tiết kiệm chi phí mà còn là một lựa chọn chiến lược để xây dựng nền tảng chính phủ số linh hoạt, an toàn và tự chủ cho bất kỳ quốc gia nào.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. GovTech là gì và Tại sao Nguồn Mở lại Quan trọng?
 
@@ -16,7 +16,7 @@ GovTech là cách tiếp cận "toàn diện chính phủ" (whole-of-government)
 
 Tuy nhiên, theo "Berlin Global GovTech Centre", các chính phủ truyền thống đang đối mặt với nhiều "khoảng trống" (gaps) cản trở quá trình này. Đáng chú ý nhất là "khoảng trống về tính mở" (Openness gap), nơi mà mã nguồn mở và các tiêu chuẩn trung lập vẫn là ngoại lệ thay vì quy chuẩn. Chính 'khoảng trống về tính mở' này là nơi các hệ thống độc quyền bộc lộ những yếu điểm cố hữu, và cũng là nơi sức mạnh của nguồn mở trở nên rõ ràng nhất.
 
-| Mô hình Hộp Đen Độc Quyền                                                                         | Sức mạnh từ Hệ sinh thái Mở                                                                                           |
+| **Mô hình Hộp Đen Độc Quyền**                                                                     | **Sức mạnh từ Hệ sinh thái Mở**                                                                                       |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | Chi phí cao: Chi phí bản quyền, nâng cấp và bảo trì đắt đỏ.                                       | Tiết kiệm chi phí: Giảm đáng kể chi phí bản quyền, cho phép tập trung ngân sách vào tùy biến và triển khai.           |
 | Phụ thuộc vào nhà cung cấp (Vendor lock-in): Khó thay đổi hoặc tích hợp với các hệ thống khác.    | Linh hoạt và Tương thích: Dễ dàng tùy chỉnh và tích hợp với các hệ thống khác nhờ các tiêu chuẩn mở.                  |

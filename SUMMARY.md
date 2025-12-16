@@ -31,10 +31,13 @@
   * [Sức Mạnh Nguồn Mở: Bệ Phóng Cho GovTech và Chuyển Đổi Số Quốc Gia](bai-viet-trao-doi/ai-viet-ve-govtech/suc-manh-nguon-mo-be-phong-cho-govtech-va-chuyen-doi-so-quoc-gia.md)
   * [5 Tiết Lộ Bất Ngờ Về Cuộc Cách Mạng Dữ Liệu Thầm Lặng Của Chính Phủ](bai-viet-trao-doi/ai-viet-ve-govtech/5-tiet-lo-bat-ngo-ve-cuoc-cach-mang-du-lieu-tham-lang-cua-chinh-phu.md)
   * [5 Tiết Lộ Bất Ngờ Về Công Nghệ Đang Vận Hành Chính Phủ](bai-viet-trao-doi/ai-viet-ve-govtech/5-tiet-lo-bat-ngo-ve-cong-nghe-dang-van-hanh-chinh-phu.md)
+  * [Nền tảng Bảo mật GovTech Vững chắc: Sức mạnh của Công nghệ Nguồn Mở](bai-viet-trao-doi/ai-viet-ve-govtech/nen-tang-bao-mat-govtech-vung-chac-suc-manh-cua-cong-nghe-nguon-mo.md)
+  * [Xây dựng Nền tảng GovTech Tương lai: Sức mạnh của Kiến trúc Mở](bai-viet-trao-doi/ai-viet-ve-govtech/xay-dung-nen-tang-govtech-tuong-lai-suc-manh-cua-kien-truc-mo.md)
+  * [Tổng hợp Các Công nghệ Mã nguồn mở cho Giải pháp GovTech](bai-viet-trao-doi/ai-viet-ve-govtech/tong-hop-cac-cong-nghe-ma-nguon-mo-cho-giai-phap-govtech.md)
 
 ## CHUYÊN ĐỀ ĐÀO TẠO
 
-* [Chiến lược, kiến trúc, quản trị dữ liệu công](https://fdsvn.gitbook.io/govdata)
+* [Chiến lược, Kiến trúc, Quản trị Dữ liệu công](https://fdsvn.gitbook.io/govdata)
 
 ## Hoạt động cộng đồng
 
@@ -42,7 +45,7 @@
 
 ## MAKE IN VIETNAM
 
-* [OpenCPS - Nền tảng Dịch vụ công](make-in-vietnam/opencps-nen-tang-dich-vu-cong/README.md)
+* [OpenCPS - Nền tảng Dịch vụ công](make-in-vietnam/opencps.md)
   * [Giới thiệu tổng quan OpenCPS](make-in-vietnam/opencps-nen-tang-dich-vu-cong/gioi-thieu-tong-quan-opencps.md)
   * [OpenCPS: Khi Công Nghệ Nguồn Mở Trở Thành Chìa Khóa Cho Chính Phủ Điện Tử "Make in VietNam"](make-in-vietnam/opencps-nen-tang-dich-vu-cong/opencps-khi-cong-nghe-nguon-mo-tro-thanh-chia-khoa-cho-chinh-phu-dien-tu-make-in-vietnam.md)
   * [OpenCPS: Giải pháp Hữu ích cho Dịch vụ công](make-in-vietnam/opencps-nen-tang-dich-vu-cong/opencps-giai-phap-huu-ich-cho-dich-vu-cong.md)

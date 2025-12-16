@@ -6,7 +6,7 @@ Trong nhiều năm, việc triển khai các hệ thống dịch vụ công tr�
 
 Bối cảnh này đòi hỏi một giải pháp mang tính chiến lược, đồng bộ và bền vững. Tinh thần của Nghị quyết số 36a/NQ-CP về Chính phủ điện tử đã trở thành kim chỉ nam, thúc đẩy sự ra đời của một sáng kiến đột phá nhằm giải quyết triệt để các bài toán công nghệ tồn đọng, mở đường cho một thế hệ Chính phủ điện tử mới, thực sự hiệu quả và lấy người dân, doanh nghiệp làm trung tâm.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. OpenCPS ra đời: Một Sáng kiến Chiến lược được Nhà nước Hỗ trợ
 
@@ -58,7 +58,7 @@ Các con số này không chỉ ấn tượng về mặt khối lượng mà cò
 
 Với những thành công đã đạt được, OpenCPS đã khẳng định vai trò là một thành phần quan trọng của nền tảng phát triển chính phủ số FlexDigital. Nền tảng này đã được Bộ Thông tin và Truyền thông chính thức ra mắt, đánh dấu một cột mốc quan trọng trong chiến lược tự chủ công nghệ của Việt Nam.
 
-"Đây là nền tảng “Make in VietNam” đầu tiên được phát triển dựa trên nguồn mở nhằm thực hiện “Chương trình chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030”".
+Đây là nền tảng “Make in VietNam” đầu tiên được phát triển dựa trên nguồn mở nhằm thực hiện “Chương trình chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030”.
 
 Tính đến nay, OpenCPS đã được triển khai hiệu quả tại 08 bộ ngành và 03 tỉnh thành, và là hạt nhân công nghệ trong hơn 15 dự án chính phủ điện tử thành công trên cả nước, từ cấp Bộ như Bộ Giao thông Vận tải, Bộ Xây dựng cho đến các địa phương như Đồng Tháp, Hậu Giang.
 
