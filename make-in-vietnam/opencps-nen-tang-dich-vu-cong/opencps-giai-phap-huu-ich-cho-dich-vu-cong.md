@@ -6,6 +6,8 @@ Trong bối cảnh Việt Nam đẩy mạnh xây dựng Chính phủ điện t�
 
 Để giải quyết các rào cản kiến trúc này, dự án _"Nghiên cứu, ứng dụng công nghệ nguồn mở xây dựng hệ thống phần mềm lõi dịch vụ công trực tuyến OpenCPS phù hợp Khung kiến trúc Chính phủ điện tử Việt Nam"_ đã được triển khai. Dự án do Công ty Cổ phần Phát triển nguồn mở và dịch vụ FDS thực hiện, với sự tài trợ từ Quỹ Đổi mới công nghệ quốc gia (NATIF), ra đời với sứ mệnh cung cấp một giải pháp công nghệ tiên tiến, kiến trúc linh hoạt và tuân thủ chặt chẽ các tiêu chuẩn kỹ thuật của Việt Nam.
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 #### 2. Kiến trúc và Triết lý cốt lõi của OpenCPS v2
 
 OpenCPS phiên bản 2 (v2) được cấu thành từ các nguyên lý kiến trúc và triết lý phát triển tiên tiến, tạo nên nền tảng vững chắc cho việc triển khai các hệ thống dịch vụ công quy mô lớn và bền vững.
