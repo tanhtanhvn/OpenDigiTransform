@@ -30,11 +30,12 @@
   * [Xây dựng Nền tảng GovTech Tương lai: Sức mạnh của Kiến trúc Mở](bai-viet-trao-doi/ai-viet-ve-govtech/xay-dung-nen-tang-govtech-tuong-lai-suc-manh-cua-kien-truc-mo.md)
   * [GovTech: Khi Công nghệ Trở Thành Nền Tảng Quản Trị Quốc Gia](bai-viet-trao-doi/ai-viet-ve-govtech/govtech-khi-cong-nghe-tro-thanh-nen-tang-quan-tri-quoc-gia.md)
   * [Sức Mạnh Nguồn Mở: Bệ Phóng Cho GovTech và Chuyển Đổi Số Quốc Gia](bai-viet-trao-doi/ai-viet-ve-govtech/suc-manh-nguon-mo-be-phong-cho-govtech-va-chuyen-doi-so-quoc-gia.md)
+  * [Hành trình Singapore trở thành Quốc gia Thông minh: Câu chuyện về Chuyển đổi số](bai-viet-trao-doi/ai-viet-ve-govtech/hanh-trinh-singapore-tro-thanh-quoc-gia-thong-minh-cau-chuyen-ve-chuyen-doi-so.md)
   * [5 Tiết Lộ Bất Ngờ Về Cuộc Cách Mạng Dữ Liệu Thầm Lặng Của Chính Phủ](bai-viet-trao-doi/ai-viet-ve-govtech/5-tiet-lo-bat-ngo-ve-cuoc-cach-mang-du-lieu-tham-lang-cua-chinh-phu.md)
   * [5 Tiết Lộ Bất Ngờ Về Công Nghệ Đang Vận Hành Chính Phủ](bai-viet-trao-doi/ai-viet-ve-govtech/5-tiet-lo-bat-ngo-ve-cong-nghe-dang-van-hanh-chinh-phu.md)
-  * [Nền tảng Bảo mật GovTech Vững chắc: Sức mạnh của Công nghệ Nguồn Mở](bai-viet-trao-doi/ai-viet-ve-govtech/nen-tang-bao-mat-govtech-vung-chac-suc-manh-cua-cong-nghe-nguon-mo.md)
+  * [5 Khuyến nghị Chiến lược để Xây dựng Chính phủ số tại Việt Nam: Bài học từ các Cường quốc GovTech](bai-viet-trao-doi/ai-viet-ve-govtech/5-khuyen-nghi-chien-luoc-de-xay-dung-chinh-phu-so-tai-viet-nam-bai-hoc-tu-cac-cuong-quoc-govtech.md)
+  * [Nền tảng Bảo mật GovTech Vững chắc bằng Giải pháp Công nghệ Nguồn Mở](bai-viet-trao-doi/ai-viet-ve-govtech/nen-tang-bao-mat-govtech-vung-chac-bang-giai-phap-cong-nghe-nguon-mo.md)
   * [Tổng hợp Các Công nghệ Mã nguồn mở cho Giải pháp GovTech](bai-viet-trao-doi/ai-viet-ve-govtech/tong-hop-cac-cong-nghe-ma-nguon-mo-cho-giai-phap-govtech.md)
-  * [Hành trình Singapore trở thành Quốc gia Thông minh: Câu chuyện về Chuyển đổi số](bai-viet-trao-doi/ai-viet-ve-govtech/hanh-trinh-singapore-tro-thanh-quoc-gia-thong-minh-cau-chuyen-ve-chuyen-doi-so.md)
 
 ## CHUYÊN ĐỀ ĐÀO TẠO
 
