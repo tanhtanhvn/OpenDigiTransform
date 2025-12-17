@@ -49,7 +49,7 @@ Dưới đây là các công cụ mã nguồn mở phổ biến cho từng lớp
   * Mã hóa ổ đĩa: VeraCrypt là công cụ mạnh mẽ để mã hóa toàn bộ ổ đĩa hệ thống hoặc các thiết bị lưu trữ ngoài, đảm bảo dữ liệu được bảo vệ ngay cả khi thiết bị bị mất cắp.
   * Mã hóa truyền tải: OpenSSL là thư viện mật mã nền tảng cho gần như toàn bộ Internet, cung cấp nền tảng cho giao thức HTTPS, đảm bảo an toàn cho dữ liệu trên đường truyền.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4. Nguồn Mở Thúc Đẩy Các Công Nghệ Tiên Phong trong GovTech
 
