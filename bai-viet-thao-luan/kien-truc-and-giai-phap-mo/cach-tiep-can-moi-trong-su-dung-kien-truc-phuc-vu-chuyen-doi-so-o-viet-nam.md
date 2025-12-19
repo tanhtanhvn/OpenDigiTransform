@@ -10,7 +10,7 @@ Thập niên 2000 đánh dấu giai đoạn Việt Nam bắt đầu ứng dụng
 
 Cho tới trước khi bước vào giai đoạn xây dựng mô hình CPĐT ở Việt Nam, ứng dụng CNTT chỉ dừng ở việc xây dựng các hệ thống phần mềm riêng lẻ trong từng cơ quan nhà nước (vd., phần mềm quản lý văn bản, hồ sơ cán bộ, tài chính kế toán,...). Lúc này chưa hình thành tư duy kiến trúc trong việc phát triển các ứng dụng CNTT. Dữ liệu tạo lập bị phân tán, chỉ sử dụng trong nội bộ mà không có sự chia sẻ giữa các cơ quan, đơn vị.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Xây dựng mô hình từ CPĐT hướng tới CPS
 
