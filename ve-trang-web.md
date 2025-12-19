@@ -26,7 +26,7 @@ Sau đó, ông chuyển sang công tác nghiên cứu tại Viện Hàn lâm Kho
 
 Từ năm 2016 đến nay, TS. Tuấn Anh là đồng sáng lập Công ty Cổ phần FDS, tập trung nghiên cứu và phát triển các hệ thống thông tin phục vụ Chính phủ điện tử và Chính phủ số. Với kinh nghiệm dày dặn trong việc thiết kế kiến trúc công nghệ thông tin và triển khai các hệ thống thông minh dựa trên dữ liệu và tri thức, kiến thức của ông trong các bài viết và giáo trình đào tạo là sự đúc kết từ thực tiễn và tầm nhìn chiến lược về phát triển công nghệ số tại Việt Nam.
 
-#### Công cụ AI
+#### Sử dụng công cụ AI
 
 Trong quá trình tạo lập nội dung cho trang web này, Tác giả đã sử dụng các công cụ AI như ChatGPT để trợ giúp biên tập nôi dùng và Gemini để tạo sinh các hình ảnh và các bài trình bày.
 
