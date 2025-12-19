@@ -12,7 +12,7 @@ Thành công của Singapore bắt nguồn từ những nỗ lực được kh�
 
 Bước đi tiên phong này đã đặt những viên gạch đầu tiên, tạo ra một hạ tầng cơ sở và một tư duy hệ thống. Đó chính là mảnh đất màu mỡ, được chuẩn bị kỹ lưỡng để gieo mầm cho những tham vọng lớn lao hơn, cho một bước nhảy vọt chiến lược sẽ định hình lại toàn bộ quốc gia.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Bước ngoặt Chiến lược: Hiện thực hóa Tầm nhìn "Quốc gia Thông minh"
 
