@@ -6,6 +6,8 @@ Chúng ta đang sống trong một thời đại của những nghịch lý sâu
 
 Chúng ta sẽ phân tích mối quan hệ phức tạp này thông qua lăng kính của khoa học mở và giáo dục mở—hai động cơ chính của việc dân chủ hóa tri thức trong thế kỷ 21. Bằng cách đánh giá cả tiềm năng to lớn và những thách thức cố hữu, bài viết này đề xuất một lộ trình phát triển cân bằng cho Việt Nam, một lộ trình đặt việc kiến tạo thể chế làm trọng tâm. Bởi lẽ, một tương lai mở không tự động đến; nó phải được xây dựng một cách có chủ đích.
 
+<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+
 #### 1. Nền Tảng của Xã Hội Mở: Dân chủ hóa Tri thức và Thúc đẩy Sáng tạo
 
 Nền tảng của một xã hội tiến bộ, theo tầm nhìn của triết gia Karl Popper, là một xã hội cởi mở, khoan dung và đề cao tư duy phản biện. Tại cốt lõi của tầm nhìn này là nguyên tắc dân chủ hóa tri thức. Trong thế kỷ 21, các phong trào "khoa học mở" và "giáo dục mở" đã trở thành những động cơ thực tiễn mạnh mẽ nhất để hiện thực hóa lý tưởng này. Theo định nghĩa của UNESCO, khoa học mở là một cấu trúc bao trùm nhằm làm cho tri thức khoa học trở nên cởi mở, dễ tiếp cận và có thể tái sử dụng cho tất cả mọi người, đồng thời tăng cường hợp tác khoa học vì lợi ích của khoa học và xã hội.
