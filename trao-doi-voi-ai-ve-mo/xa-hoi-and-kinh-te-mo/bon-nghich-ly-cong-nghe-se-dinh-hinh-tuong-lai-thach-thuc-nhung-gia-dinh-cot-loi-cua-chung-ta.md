@@ -1,4 +1,4 @@
-# Bốn Nghịch Lý Công Nghệ Sẽ Định Hình Năm 2025: Thách Thức Những Giả Định Cốt Lõi Của Chúng Ta
+# Bốn Nghịch Lý Công Nghệ Sẽ Định Hình Tương Lai: Thách Thức Những Giả Định Cốt Lõi Của Chúng Ta
 
 #### Giới thiệu
 
@@ -6,7 +6,7 @@ Trong cuộc đua công nghệ không ngừng nghỉ, chúng ta thường tập 
 
 Tuy nhiên, bên dưới bề mặt của những xu hướng hào nhoáng này, những câu chuyện quan trọng nhất lại thường mang đầy nghịch lý và trái với trực giác thông thường. Chúng thách thức những giả định cốt lõi của chúng ta về cách công nghệ vận hành và sự tiến bộ thực sự có ý nghĩa gì.
 
-Bài viết này sẽ khám phá bốn trong số những kết luận đáng ngạc nhiên và có tác động mạnh mẽ nhất từ các phân tích gần đây. Chúng ta sẽ cùng nhau tìm hiểu xem các giả định của mình về công nghệ và sự tiến bộ đang bị thách thức như thế nào khi chúng ta hướng tới năm 2025.
+Bài viết này sẽ khám phá bốn trong số những kết luận đáng ngạc nhiên và có tác động mạnh mẽ nhất từ các phân tích gần đây. Chúng ta sẽ cùng nhau tìm hiểu xem các giả định của mình về công nghệ và sự tiến bộ đang bị thách thức như thế nào khi chúng ta hướng tới tương lai.
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
