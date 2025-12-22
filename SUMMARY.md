@@ -31,12 +31,17 @@
 
 ## Trao đổi với AI về mở
 
-* [Thể chế & Chính sách mở](trao-doi-voi-ai-ve-mo/the-che-and-chinh-sach-mo.md)
+* [Thể chế & Chính sách mở](trao-doi-voi-ai-ve-mo/the-che-and-chinh-sach-mo/README.md)
+  * [Sức Mạnh Nguồn Mở: Bệ Phóng Cho Chuyển Đổi Số Quốc Gia](trao-doi-voi-ai-ve-mo/the-che-and-chinh-sach-mo/suc-manh-nguon-mo-be-phong-cho-chuyen-doi-so-quoc-gia.md)
+  * [Hành Trình Nguồn Mở Của Các Chính Phủ: Những Câu Chuyện Về Đổi Mới, Chủ Quyền và Hợp Tác](trao-doi-voi-ai-ve-mo/the-che-and-chinh-sach-mo/hanh-trinh-nguon-mo-cua-cac-chinh-phu-nhung-cau-chuyen-ve-doi-moi-chu-quyen-va-hop-tac.md)
+  * [Xây Dựng Thể Chế Mở từ Chính Sách Toàn Cầu đến Hành Động tại Việt Nam](trao-doi-voi-ai-ve-mo/the-che-and-chinh-sach-mo/xay-dung-the-che-mo-tu-chinh-sach-toan-cau-den-hanh-dong-tai-viet-nam.md)
+  * [5 Sự Thật Gây Sốc Về Nguồn Mở: Không Chỉ Là Phần Mềm Miễn Phí](trao-doi-voi-ai-ve-mo/the-che-and-chinh-sach-mo/5-su-that-gay-soc-ve-nguon-mo-khong-chi-la-phan-mem-mien-phi.md)
+  * [5 Khuyến nghị Hành động để Thúc đẩy Chiến lược Nguồn mở Quốc gia: Chìa Khóa Xây Dựng Chủ Quyền Số](trao-doi-voi-ai-ve-mo/the-che-and-chinh-sach-mo/5-khuyen-nghi-hanh-dong-de-thuc-day-chien-luoc-nguon-mo-quoc-gia-chia-khoa-xay-dung-chu-quyen-so.md)
 * [Dữ liệu & Chính phủ mở](trao-doi-voi-ai-ve-mo/du-lieu-and-chinh-phu-mo/README.md)
   * [Xây dựng Nền tảng GovTech Tương lai: Sức mạnh của Kiến trúc Mở](trao-doi-voi-ai-ve-mo/du-lieu-and-chinh-phu-mo/xay-dung-nen-tang-govtech-tuong-lai-suc-manh-cua-kien-truc-mo.md)
   * [GovTech: Khi Công nghệ Trở Thành Nền Tảng Quản Trị Quốc Gia](trao-doi-voi-ai-ve-mo/du-lieu-and-chinh-phu-mo/govtech-khi-cong-nghe-tro-thanh-nen-tang-quan-tri-quoc-gia.md)
-  * [Bốn Trụ Cột Công Nghệ Mở: Chìa Khóa Xây Dựng GovTech Việt Nam Hiện Đại và Tự Chủ](trao-doi-voi-ai-ve-mo/du-lieu-and-chinh-phu-mo/bon-tru-cot-cong-nghe-mo-chia-khoa-xay-dung-govtech-viet-nam-hien-dai-va-tu-chu.md)
   * [Hành trình Singapore trở thành Quốc gia Thông minh: Câu chuyện về Chuyển đổi số](trao-doi-voi-ai-ve-mo/du-lieu-and-chinh-phu-mo/hanh-trinh-singapore-tro-thanh-quoc-gia-thong-minh-cau-chuyen-ve-chuyen-doi-so.md)
+  * [Bốn Trụ Cột Công Nghệ Mở: Chìa Khóa Xây Dựng GovTech Việt Nam Hiện Đại và Tự Chủ](trao-doi-voi-ai-ve-mo/du-lieu-and-chinh-phu-mo/bon-tru-cot-cong-nghe-mo-chia-khoa-xay-dung-govtech-viet-nam-hien-dai-va-tu-chu.md)
   * [Vượt Lên Cổng Dịch Vụ Công: 5 Sự Thật Ít Ai Biết Về Cuộc Cách Mạng GovTech](trao-doi-voi-ai-ve-mo/du-lieu-and-chinh-phu-mo/vuot-len-cong-dich-vu-cong-5-su-that-it-ai-biet-ve-cuoc-cach-mang-govtech.md)
   * [5 Tiết Lộ Bất Ngờ Về Cuộc Cách Mạng Dữ Liệu Thầm Lặng Của Chính Phủ](trao-doi-voi-ai-ve-mo/du-lieu-and-chinh-phu-mo/5-tiet-lo-bat-ngo-ve-cuoc-cach-mang-du-lieu-tham-lang-cua-chinh-phu.md)
   * [5 Tiết Lộ Bất Ngờ Về Công Nghệ Đang Vận Hành Chính Phủ](trao-doi-voi-ai-ve-mo/du-lieu-and-chinh-phu-mo/5-tiet-lo-bat-ngo-ve-cong-nghe-dang-van-hanh-chinh-phu.md)
@@ -48,8 +53,6 @@
   * [CBPP: Phương Thức Sản Xuất Mới Trong Kỷ Nguyên Số](trao-doi-voi-ai-ve-mo/xa-hoi-and-kinh-te-mo/cbpp-phuong-thuc-san-xuat-moi-trong-ky-nguyen-so.md)
   * [Bốn Nghịch Lý Công Nghệ Sẽ Định Hình Năm 2025: Thách Thức Những Giả Định Cốt Lõi Của Chúng Ta](trao-doi-voi-ai-ve-mo/xa-hoi-and-kinh-te-mo/bon-nghich-ly-cong-nghe-se-dinh-hinh-nam-2025-thach-thuc-nhung-gia-dinh-cot-loi-cua-chung-ta.md)
 * [Công nghệ Mã nguồn mở](trao-doi-voi-ai-ve-mo/cong-nghe-ma-nguon-mo/README.md)
-  * [Sức Mạnh Nguồn Mở: Bệ Phóng Cho GovTech và Chuyển Đổi Số Quốc Gia](trao-doi-voi-ai-ve-mo/cong-nghe-ma-nguon-mo/suc-manh-nguon-mo-be-phong-cho-govtech-va-chuyen-doi-so-quoc-gia.md)
-  * [5 Khuyến nghị Hành động để Thúc đẩy Chiến lược Nguồn mở Quốc gia: Chìa Khóa Xây Dựng Chủ Quyền Số](trao-doi-voi-ai-ve-mo/cong-nghe-ma-nguon-mo/5-khuyen-nghi-hanh-dong-de-thuc-day-chien-luoc-nguon-mo-quoc-gia-chia-khoa-xay-dung-chu-quyen-so.md)
   * [Xây dựng Nền tảng Bảo mật Vững chắc bằng Giải pháp Nguồn Mở](trao-doi-voi-ai-ve-mo/cong-nghe-ma-nguon-mo/xay-dung-nen-tang-bao-mat-vung-chac-bang-giai-phap-nguon-mo.md)
   * [Tổng hợp Các Công nghệ Mã nguồn mở cho Giải pháp GovTech](trao-doi-voi-ai-ve-mo/cong-nghe-ma-nguon-mo/tong-hop-cac-cong-nghe-ma-nguon-mo-cho-giai-phap-govtech.md)
 
