@@ -4,6 +4,8 @@
 
 Trong thời đại số, "mở" (open) đã vượt qua ranh giới của một thuật ngữ công nghệ để trở thành một xu hướng chiến lược, định hình lại cách chúng ta tạo ra, chia sẻ và sử dụng tri thức. Từ phần mềm, nghiên cứu khoa học, giáo dục đến di sản văn hóa, nguyên tắc mở đang phá vỡ những rào cản truyền thống, thúc đẩy một tương lai hợp tác và công bằng hơn. Bài viết này tổng thuật về sự ra đời và bản chất của tài nguyên mở, giải thích các loại giấy phép mở then chốt đã hiện thực hóa lý tưởng này, và khám phá những ứng dụng đột phá của chúng trong các lĩnh vực khoa học, giáo dục và văn hóa.
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 #### 1. Định nghĩa Tài nguyên Mở và Giấy phép Mở
 
 Phần này giải thích rõ ràng các khái niệm nền tảng làm cơ sở cho toàn bộ phong trào mở.

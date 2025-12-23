@@ -6,7 +6,7 @@ Chúng ta đang bước vào kỷ nguyên của GovTech (Công nghệ Chính ph�
 
 Tuy nhiên, khi các dịch vụ công ngày càng được số hóa và dữ liệu của công dân được tập trung trên các nền tảng số, một thách thức cốt lõi cũng gia tăng tương ứng: rủi ro về an ninh mạng, bảo vệ dữ liệu và quyền riêng tư. Đây chính là một trong những rào cản chính được World Bank xác định trong quá trình hiện đại hóa khu vực công. Điều này đặt ra một yêu cầu cấp thiết về việc xây dựng một nền tảng bảo mật và an toàn thông tin vững chắc. Luận điểm chính của bài viết này là: các công nghệ nguồn mở cung cấp một giải pháp chiến lược, hiệu quả, minh bạch và tự chủ cho các chính phủ trong việc xây dựng nền tảng bảo mật GovTech, đảm bảo an toàn cho hạ tầng số quốc gia và dữ liệu của công dân.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Tại sao Nguồn mở là Lựa chọn Chiến lược cho GovTech?
 

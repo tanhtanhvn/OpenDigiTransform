@@ -53,12 +53,14 @@
   * [6 Sự Thật Gây Sốc Về Thế Giới "Mở": Từ Di Sản Số Đến Trí Tuệ Nhân Tạo](trao-doi-voi-ai-ve-mo/khoa-hoc-and-giao-duc-mo/6-su-that-gay-soc-ve-the-gioi-mo-tu-di-san-so-den-tri-tue-nhan-tao.md)
   * [Công nghệ Mở Tái sinh Di sản: Những Câu chuyện Chuyển đổi từ Khắp Thế giới](trao-doi-voi-ai-ve-mo/khoa-hoc-and-giao-duc-mo/cong-nghe-mo-tai-sinh-di-san-nhung-cau-chuyen-chuyen-doi-tu-khap-the-gioi.md)
 * [Xã hội & Kinh tế mở](trao-doi-voi-ai-ve-mo/xa-hoi-and-kinh-te-mo/README.md)
-  * [Kỷ Nguyên Mở: Điều Hướng Giao Lộ Giữa Đổi Mới, Đạo Đức và Tương Lai Xã Hội](trao-doi-voi-ai-ve-mo/xa-hoi-and-kinh-te-mo/ky-nguyen-mo-dieu-huong-giao-lo-giua-doi-moi-dao-duc-va-tuong-lai-xa-hoi.md)
+  * [Đã Qua Thời "Vườn Tường": Hệ Sinh Thái Mở Đang Tái Định Hình Mọi Ngành Công Nghệ](trao-doi-voi-ai-ve-mo/xa-hoi-and-kinh-te-mo/da-qua-thoi-vuon-tuong-he-sinh-thai-mo-dang-tai-dinh-hinh-moi-nganh-cong-nghe.md)
   * [CBPP: Phương Thức Sản Xuất Mới Trong Kỷ Nguyên Số](trao-doi-voi-ai-ve-mo/xa-hoi-and-kinh-te-mo/cbpp-phuong-thuc-san-xuat-moi-trong-ky-nguyen-so.md)
+  * [Kỷ Nguyên Mở: Điều Hướng Giao Lộ Giữa Đổi Mới, Đạo Đức và Tương Lai Xã Hội](trao-doi-voi-ai-ve-mo/xa-hoi-and-kinh-te-mo/ky-nguyen-mo-dieu-huong-giao-lo-giua-doi-moi-dao-duc-va-tuong-lai-xa-hoi.md)
   * [Bốn Nghịch Lý Công Nghệ Sẽ Định Hình Tương Lai: Thách Thức Những Giả Định Cốt Lõi Của Chúng Ta](trao-doi-voi-ai-ve-mo/xa-hoi-and-kinh-te-mo/bon-nghich-ly-cong-nghe-se-dinh-hinh-tuong-lai-thach-thuc-nhung-gia-dinh-cot-loi-cua-chung-ta.md)
+  * [Những Mảnh Ghép Tương Lai: Các Câu Chuyện Về Thế Giới Công Nghệ](trao-doi-voi-ai-ve-mo/xa-hoi-and-kinh-te-mo/nhung-manh-ghep-tuong-lai-cac-cau-chuyen-ve-the-gioi-cong-nghe.md)
 * [Công nghệ Mã nguồn mở](trao-doi-voi-ai-ve-mo/cong-nghe-ma-nguon-mo/README.md)
-  * [Xây dựng Nền tảng Bảo mật Vững chắc bằng Giải pháp Nguồn Mở](trao-doi-voi-ai-ve-mo/cong-nghe-ma-nguon-mo/xay-dung-nen-tang-bao-mat-vung-chac-bang-giai-phap-nguon-mo.md)
   * [Tổng hợp Các Công nghệ Mã nguồn mở cho Giải pháp GovTech](trao-doi-voi-ai-ve-mo/cong-nghe-ma-nguon-mo/tong-hop-cac-cong-nghe-ma-nguon-mo-cho-giai-phap-govtech.md)
+  * [Xây dựng Nền tảng Bảo mật Vững chắc bằng Giải pháp Nguồn Mở](trao-doi-voi-ai-ve-mo/cong-nghe-ma-nguon-mo/xay-dung-nen-tang-bao-mat-vung-chac-bang-giai-phap-nguon-mo.md)
 
 ## CHUYÊN ĐỀ ĐÀO TẠO
 

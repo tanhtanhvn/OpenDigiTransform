@@ -6,6 +6,8 @@ Tuy nhiên, đằng sau lời hứa hẹn đầy hấp dẫn này là một th�
 
 Bài viết này sẽ đi sâu khám phá sáu sự thật gây sốc và có tác động mạnh mẽ nhất về thế giới "mở" mà chúng ta đang xây dựng. Từ định nghĩa mơ hồ của chính khái niệm này cho đến cách nó có thể bị khai thác bởi các gã khổng lồ công nghệ, chúng ta sẽ lật mở những góc khuất ít ai ngờ tới của cuộc cách mạng kỹ thuật số.
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 #### 1. "Mở" Không Hề Đơn Giản Như Bạn Nghĩ
 
 Trong khi "mở" thường được hiểu là việc loại bỏ các rào cản về tài chính, công nghệ hoặc pháp lý, khái niệm này lại thiếu một định nghĩa rõ ràng, phổ quát. Đặc biệt trong lĩnh vực di sản văn hóa—thường được gọi là GLAM (phòng trưng bày, thư viện, kho lưu trữ và bảo tàng)—cách áp dụng của nó rất không nhất quán.

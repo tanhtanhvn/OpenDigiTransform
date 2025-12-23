@@ -4,7 +4,7 @@
 
 Trên khắp thế giới, các chính phủ đang thực hiện một sự chuyển dịch chiến lược mang tính bước ngoặt. Phần mềm nguồn mở (OSS) không còn được xem là một lựa chọn kỹ thuật đơn thuần mà đã trở thành một công cụ thiết yếu cho quản trị hiện đại. Sự thay đổi này không chỉ mang ý nghĩa về mặt công nghệ mà còn có tác động kinh tế sâu sắc. Minh chứng là, các nghiên cứu cho thấy phần mềm nguồn mở đóng góp từ 65 đến 95 tỷ Euro vào GDP của Liên minh Châu Âu mỗi năm. Quan trọng hơn, việc đầu tư vào hệ sinh thái này còn hứa hẹn những lợi ích tương lai: ước tính cho thấy nếu mức độ đóng góp cho nguồn mở tăng 10%, GDP có thể tăng thêm từ 0,4% đến 0,6%, khẳng định vai trò của nó như một động lực then chốt cho sự đổi mới và tăng trưởng bền vững.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Hoa Kỳ: Khởi Xướng Chính Sách "Mở Theo Mặc Định"
 

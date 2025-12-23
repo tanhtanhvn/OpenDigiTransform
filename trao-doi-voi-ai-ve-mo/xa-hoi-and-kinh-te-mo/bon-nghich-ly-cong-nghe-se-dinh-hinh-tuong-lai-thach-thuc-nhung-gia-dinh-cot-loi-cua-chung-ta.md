@@ -8,7 +8,7 @@ Tuy nhiên, bên dưới bề mặt của những xu hướng hào nhoáng này,
 
 Bài viết này sẽ khám phá bốn trong số những kết luận đáng ngạc nhiên và có tác động mạnh mẽ nhất từ các phân tích gần đây. Chúng ta sẽ cùng nhau tìm hiểu xem các giả định của mình về công nghệ và sự tiến bộ đang bị thách thức như thế nào khi chúng ta hướng tới tương lai.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Nghịch lý của sự "Mở": Càng Mở Lại Càng Đóng?
 
@@ -40,9 +40,7 @@ Chúng ta thường cho rằng những thách thức lớn nhất trong công ng
 
 Khi nghĩ về tội phạm mạng, chúng ta thường hình dung đó là một vấn đề kỹ thuật, một rủi ro phiền toái cho bộ phận IT. Tuy nhiên, quy mô thực sự của mối đe dọa này sẽ khiến bạn phải suy nghĩ lại.
 
-**Nêu Bật Dữ liệu Gây sốc**: Theo báo cáo "Xu hướng và Thách thức CNTT năm 2025", tội phạm mạng được dự báo sẽ gây thiệt hại cho nền kinh tế toàn cầu 12 nghìn tỷ đô la Mỹ vào năm 2025.
-
-**Sử dụng Phép so sánh Mạnh mẽ**: Để dễ hình dung hơn, con số này sẽ xếp tội phạm mạng trở thành "nền kinh tế" lớn thứ ba trên thế giới, chỉ sau Mỹ và Trung Quốc.
+**Dữ liệu Gây sốc**: Theo báo cáo "Xu hướng và Thách thức CNTT năm 2025", tội phạm mạng được dự báo sẽ gây thiệt hại cho nền kinh tế toàn cầu 12 nghìn tỷ đô la Mỹ vào năm 2025. Để dễ hình dung hơn, con số này sẽ xếp tội phạm mạng trở thành "nền kinh tế" lớn thứ ba trên thế giới, chỉ sau Mỹ và Trung Quốc.
 
 **Giải thích Nguyên nhân**: Xu hướng này được thúc đẩy bởi các yếu tố như "ransomware ngày càng tinh vi với các chiến thuật tống tiền đa tầng" và "các mối đe dọa được hỗ trợ bởi AI cho phép các cuộc tấn công có quy mô lớn và được cá nhân hóa".
 
@@ -52,7 +50,7 @@ Khi nghĩ về tội phạm mạng, chúng ta thường hình dung đó là mộ
 
 Nhiều tổ chức đang nỗ lực trở thành "doanh nghiệp dựa trên dữ liệu" để thúc đẩy đổi mới. Họ thường cho rằng những trở ngại chính là về công nghệ: thiếu công cụ phù hợp, nền tảng lỗi thời hoặc cấu trúc dữ liệu phức tạp.
 
-**Giới thiệu Khía cạnh Bất ngờ**: Tuy nhiên, một phân tích sâu sắc từ bài viết "Hệ sinh thái dữ liệu" của Việt Nam đã chỉ ra rằng một trong những thách thức lớn nhất không phải là công nghệ, mà là một tư duy văn hóa về việc tích trữ dữ liệu, được tóm gọn trong thái độ: _“đây là dữ liệu của tôi, tôi không đưa nó cho bất kỳ ai”_.
+**Khía cạnh Bất ngờ**: Tuy nhiên, một phân tích sâu sắc từ bài viết "Hệ sinh thái dữ liệu" của Việt Nam đã chỉ ra rằng một trong những thách thức lớn nhất không phải là công nghệ, mà là một tư duy văn hóa về việc tích trữ dữ liệu, được tóm gọn trong thái độ: _“đây là dữ liệu của tôi, tôi không đưa nó cho bất kỳ ai”_.
 
 **Phân biệt Khái niệm**: Bài viết cũng giải thích sự khác biệt quan trọng giữa thị trường dữ liệu (nơi dữ liệu chỉ đơn giản được mua và bán như một món hàng) và hệ sinh thái dữ liệu (nơi dữ liệu được chia sẻ một cách hợp tác để mở ra những hiểu biết mới và giải quyết các vấn đề phức tạp). Trong một thị trường, giá trị là giao dịch. Trong một hệ sinh thái, giá trị là sự hợp tác.
 

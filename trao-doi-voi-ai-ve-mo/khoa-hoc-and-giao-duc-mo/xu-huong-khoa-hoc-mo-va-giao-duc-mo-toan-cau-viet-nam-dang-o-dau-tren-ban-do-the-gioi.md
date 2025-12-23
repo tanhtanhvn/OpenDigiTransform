@@ -8,6 +8,8 @@ Theo định nghĩa của UNESCO và Creative Commons, Khoa học Mở và Giáo
 
 Bài viết này sẽ phác thảo bức tranh toàn cảnh về xu hướng khoa học mở và giáo dục mở trên thế giới, từ những động lực thúc đẩy, nền tảng công nghệ, cho đến các cuộc tranh luận phức tạp. Từ đó, chúng ta sẽ phân tích và định vị vị thế của Việt Nam trong bối cảnh sôi động này, đánh giá những bước tiến đã đạt được và con đường phía trước.
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 #### 1. Động Lực Thúc Đẩy: Vì Sao "Mở" Trở Thành Xu Thế?
 
 Phong trào mở được thúc đẩy bởi nhu cầu cấp thiết nhằm tăng cường tính minh bạch, khả năng tái lập (reproducibility) và hiệu quả trong nghiên cứu khoa học. Hơn thế nữa, nó còn có mục tiêu kết nối khoa học gần hơn với các nhu cầu thực tiễn của xã hội, giúp các phát kiến nhanh chóng được ứng dụng để giải quyết các thách thức toàn cầu.

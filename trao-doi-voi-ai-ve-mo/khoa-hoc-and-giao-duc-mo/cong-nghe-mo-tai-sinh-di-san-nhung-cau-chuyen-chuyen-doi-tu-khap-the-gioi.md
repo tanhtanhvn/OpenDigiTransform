@@ -6,6 +6,8 @@ Trong kỷ nguyên số, di sản văn hóa không còn bị giới hạn trong 
 
 Công nghệ đang tạo ra những phương thức đầy sáng tạo để không chỉ bảo tồn mà còn tái sinh và phục hồi di sản theo những cách chưa từng có. Từ việc quét laser một tòa nhà cổ đang bị đe dọa đến việc sử dụng trò chơi điện tử để tái hiện cả một nền văn minh, những công cụ kỹ thuật số đang trở thành cầu nối vững chắc giữa quá khứ và tương lai. Bài viết này sẽ kể lại những câu chuyện điển hình đầy cảm hứng từ khắp nơi trên thế giới, cho thấy công nghệ đang thay đổi cuộc chơi trong việc bảo tồn di sản như thế nào.
 
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 #### 1. Vượt qua Rào cản Vật lý: Tái tạo và Trải nghiệm Di sản Số
 
 Công nghệ đang phá vỡ những giới hạn về không gian, thời gian và tình trạng vật lý, cho phép mọi người tiếp cận và trải nghiệm di sản theo những cách hoàn toàn mới.
