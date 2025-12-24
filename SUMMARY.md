@@ -72,7 +72,7 @@
 
 ## MAKE IN VIETNAM
 
-* [OpenCPS - Nền tảng Dịch vụ công](make-in-vietnam/opencps.md)
+* [OpenCPS - Nền tảng Dịch vụ công](make-in-vietnam/opencps-nen-tang-dich-vu-cong/README.md)
   * [Giới thiệu tổng quan OpenCPS](make-in-vietnam/opencps-nen-tang-dich-vu-cong/gioi-thieu-tong-quan-opencps.md)
   * [OpenCPS: Khi Công Nghệ Nguồn Mở Trở Thành Chìa Khóa Cho Chính Phủ Điện Tử "Make in VietNam"](make-in-vietnam/opencps-nen-tang-dich-vu-cong/opencps-khi-cong-nghe-nguon-mo-tro-thanh-chia-khoa-cho-chinh-phu-dien-tu-make-in-vietnam.md)
   * [OpenCPS: Giải pháp Hữu ích cho Dịch vụ công](make-in-vietnam/opencps-nen-tang-dich-vu-cong/opencps-giai-phap-huu-ich-cho-dich-vu-cong.md)

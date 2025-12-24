@@ -4,7 +4,7 @@
 
 Khi nhắc đến "nguồn mở", nhiều người thường nghĩ ngay đến phần mềm miễn phí cho lập trình viên hoặc một cách thông minh để tiết kiệm chi phí bản quyền. Tuy nhiên, quan niệm này chỉ là phần nổi của tảng băng chìm. Sự thật là, nguồn mở đã vượt xa vai trò của một công cụ kỹ thuật để trở thành một động lực mạnh mẽ định hình các chiến lược quốc gia, nền kinh tế toàn cầu và thậm chí cả địa chính trị. Bài viết này sẽ phơi bày năm sự thật mang tính kiến tạo, cho thấy nguồn mở không chỉ thay đổi thế giới công nghệ mà còn đang vẽ lại bản đồ quyền lực toàn cầu.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Nguồn Mở Là Công Cụ Của Quyền Lực Quốc Gia, Không Chỉ Là Lựa Chọn Công Nghệ
 

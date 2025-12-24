@@ -8,7 +8,7 @@ Một cách đơn giản, "hệ sinh thái kinh doanh mở" là một mạng lư
 
 Tuy nhiên, đây không chỉ là một câu chuyện về sự hợp tác thuần túy. Bài phân tích này sẽ chứng minh rằng, trong khi sự chuyển dịch sang hệ sinh thái mở đang giải phóng những đổi mới sáng tạo chưa từng có, nó cũng đang tạo ra những chiến trường mới, nơi cuộc chiến không còn là sự thống trị về sản phẩm, mà là ai sẽ kiểm soát các tiêu chuẩn và dòng chảy dữ liệu của toàn bộ ngành công nghiệp.
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Động Lực Cốt Lõi: Vì Sao "Mở" Là Tương Lai?
 

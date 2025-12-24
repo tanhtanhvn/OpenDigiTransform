@@ -6,7 +6,7 @@ GovTech, hay Công nghệ Chính phủ, đại diện cho một cách tiếp c�
 
 Trong bối cảnh này, Việt Nam đã đạt được những tiến bộ vượt bậc. Theo _Khảo sát Chính phủ điện tử 2024_, Việt Nam đã chính thức vươn lên từ nhóm có Chỉ số Phát triển Chính phủ điện tử (EGDI) "Cao" sang nhóm "Rất Cao". Thành tựu này không chỉ là một sự công nhận quốc tế mà còn tạo ra một nền tảng vững chắc. Đây là thời điểm then chốt để Việt Nam không chỉ học hỏi mà còn vượt qua các mô hình hiện có, kiến tạo một mô hình chính phủ số độc đáo, hiệu quả và lấy người dân làm trung tâm, khẳng định vị thế tiên phong trong khu vực.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Phân tích các Mô hình Tiên phong: Singapore, Estonia, và Ấn Độ
 

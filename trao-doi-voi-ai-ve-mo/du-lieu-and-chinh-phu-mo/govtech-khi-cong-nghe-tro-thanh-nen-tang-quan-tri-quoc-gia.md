@@ -16,7 +16,7 @@ Một chiến lược GovTech thành công không dựa trên “mua thêm phầ
 
 Năm nền tảng này vận hành như **một chỉnh thể thống nhất**, tạo thành kiến trúc GovTech toàn diện thay vì các “đảo công nghệ” riêng lẻ như giai đoạn trước.
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 #### **2. Dữ liệu – Trái tim của toàn bộ GovTech**
 
@@ -30,7 +30,7 @@ Việt Nam đang hướng đến mô hình **quản trị dựa trên dữ liệ
 
 Chính dữ liệu là yếu tố giúp Chính phủ chuyển từ mô hình “phản ứng” sang “dự báo”, từ “quản lý thủ công” sang “quản trị thông minh”.
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 #### **3. Việt Nam đặt định hướng rõ ràng với Nghị quyết 57-NQ/TW**
 
@@ -43,7 +43,7 @@ Nghị quyết 57-NQ/TW không chỉ là văn bản định hướng – đó l�
 
 Tất cả tạo nên một khung chiến lược rõ ràng để Việt Nam tiến thẳng tới mô hình Chính phủ số thế hệ mới.
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 #### **4. Mã nguồn mở – nền tảng bền vững của GovTech hiện đại**
 
@@ -63,7 +63,7 @@ Ngày càng nhiều nền tảng trọng yếu của GovTech được xây dựn
 
 Việt Nam đang theo đúng xu hướng của các quốc gia tiên phong như Estonia, Singapore hay Ấn Độ.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 #### **5. Mục tiêu cuối cùng: Một Chính phủ hiện đại, minh bạch, phục vụ người dân tốt hơn**
 

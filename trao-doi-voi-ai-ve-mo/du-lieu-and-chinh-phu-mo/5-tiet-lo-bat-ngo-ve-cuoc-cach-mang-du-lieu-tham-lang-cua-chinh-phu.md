@@ -13,7 +13,7 @@ Hành trình chuyển đổi số của chính phủ không chỉ dừng lại �
 
 Sự thay đổi mang tính cách mạng thực sự nằm ở bước chuyển từ cấp độ 2 sang "Chính phủ dữ liệu". Đây là lúc dữ liệu không còn là sản phẩm phụ của quy trình mà đã trở thành cốt lõi của việc hoạch định chính sách và điều hành quốc gia.
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Dữ liệu giờ là 'tài sản công', quan trọng như đất đai và là 'dầu mỏ' của kỷ nguyên số
 
@@ -25,7 +25,7 @@ Theo tinh thần của Luật Dữ liệu (2024), dữ liệu do nhà nước th
 
 Sự thay đổi này không chỉ mang tính biểu tượng. Nó buộc các cơ quan nhà nước phải thay đổi tư duy từ lưu trữ thụ động sang quản trị chủ động. Giờ đây, họ phải có chiến lược rõ ràng để khai thác, quản lý, chia sẻ và bảo vệ dữ liệu như một tài sản công quý giá, thay vì để chúng nằm im trong các hệ thống riêng lẻ.
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 #### 3. Nguyên tắc 'Một lần duy nhất': Chấm dứt thời kỳ khai báo trùng lặp
 
@@ -48,7 +48,7 @@ Việc "có dữ liệu" chỉ là bước khởi đầu. Giá trị thực sự
 
 “Biến dữ liệu thành hành động” ‒ nghĩa là mọi chính sách, quyết định, và dịch vụ công đều được dẫn dắt bởi bằng chứng dữ liệu.
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 #### 5. Lãnh đạo dữ liệu không phải chuyện của IT, mà là 'Tam giác' quyền lực
 
@@ -64,7 +64,7 @@ Nguyên tắc nền tảng của mô hình này chính là:
 
 Mô hình này đòi hỏi một tam giác cân bằng. Thất bại thường xảy ra khi tam giác mất cân bằng: ví dụ, tập trung quá nhiều vào Công nghệ mà thiếu đi Chính sách định hướng sẽ tạo ra các dự án đắt đỏ nhưng vô định; hoặc có Chính sách nhưng thiếu bộ máy Quản trị hiệu quả sẽ khiến các quy định chỉ nằm trên giấy.
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 #### Lời kết: Một Kỷ Nguyên Mới Của Quản Trị Quốc Gia
 

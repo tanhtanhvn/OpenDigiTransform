@@ -2,7 +2,7 @@
 
 Khi nhắc đến chính phủ điện tử, chúng ta thường hình dung ra việc đăng ký kinh doanh hay nộp thuế qua mạng. Tuy nhiên, bản chất thật sự của công nghệ chính phủ (GovTech) là một cuộc cách mạng sâu sắc hơn nhiều, đang định hình lại không chỉ cách chúng ta tương tác với nhà nước mà còn cả vị thế của quốc gia trên trường quốc tế.
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 #### 5 Tiết Lộ Đáng Chú Ý Về GovTech
 

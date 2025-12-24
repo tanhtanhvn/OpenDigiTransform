@@ -6,7 +6,7 @@ Chúng ta đang sống trong một thời đại của những nghịch lý sâu
 
 Chúng ta sẽ phân tích mối quan hệ phức tạp này thông qua lăng kính của khoa học mở và giáo dục mở—hai động cơ chính của việc dân chủ hóa tri thức trong thế kỷ 21. Bằng cách đánh giá cả tiềm năng to lớn và những thách thức cố hữu, bài viết này đề xuất một lộ trình phát triển cân bằng cho Việt Nam, một lộ trình đặt việc kiến tạo thể chế làm trọng tâm. Bởi lẽ, một tương lai mở không tự động đến; nó phải được xây dựng một cách có chủ đích.
 
-<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Nền Tảng của Xã Hội Mở: Dân chủ hóa Tri thức và Thúc đẩy Sáng tạo
 

@@ -1,11 +1,11 @@
 # Kiến trúc & Giải pháp mở
 
-<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>

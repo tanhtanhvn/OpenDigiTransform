@@ -1,29 +1,29 @@
 # HỆ SINH THÁI MỞ
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>

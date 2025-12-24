@@ -4,7 +4,7 @@
 
 Việc chuyển đổi sang các hệ sinh thái mở, bao gồm mã nguồn mở và dữ liệu mở, không còn là một xu hướng công nghệ đơn thuần mà đã trở thành một mệnh lệnh chiến lược, được pháp điển hóa trong luật pháp của nhiều quốc gia hàng đầu. Đây không phải là vấn đề về lựa chọn công nghệ, mà là một động thái địa chính trị và kinh tế có tính toán. Các quốc gia đang pháp điển hóa sự cởi mở để xây dựng hệ sinh thái công nghệ nội địa tự cường, thoát khỏi sự phụ thuộc vào nhà cung cấp, và định vị mình là những người dẫn đầu trong nền kinh tế số toàn cầu. Bằng chứng là sự đóng góp của phần mềm nguồn mở (OSS) vào GDP của Liên minh châu Âu (EU) lên tới 65 đến 95 tỷ Euro mỗi năm. Cùng lúc đó, mô hình Hạ tầng số công (DPI) của Ấn Độ đã chứng tỏ vai trò như một công cụ thiết yếu để cung cấp dịch vụ công trên quy mô lớn và đảm bảo chủ quyền số quốc gia. Những động thái này cho thấy thế giới đang công nhận thể chế mở là nền tảng cho sự cạnh tranh kinh tế, đổi mới sáng tạo và tự chủ công nghệ. Bài viết này sẽ phân tích các xu hướng lập pháp quốc tế, các cơ chế vận hành then chốt của thể chế mở, và từ đó đề xuất các khuyến nghị chiến lược cụ thể cho bối cảnh Việt Nam, nhằm khai phá tiềm năng to lớn của mô hình này.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Xu Hướng Lập Pháp và Chính Sách Toàn Cầu về "Thể Chế Mở"
 

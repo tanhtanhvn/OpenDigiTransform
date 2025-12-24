@@ -6,7 +6,7 @@ Trong bối cảnh cạnh tranh địa chính trị số ngày càng gay gắt, 
 
 Mục tiêu của bài viết này là trình bày một chiến lược GovTech toàn diện cho Việt Nam, dựa trên bốn trụ cột cốt lõi của công nghệ mở. Chiến lược này không chỉ nhằm hiện đại hóa dịch vụ công mà còn hướng tới việc xây dựng một chính phủ số sáng tạo, minh bạch và hoàn toàn tự chủ về công nghệ.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 #### Trụ Cột 1: Nền tảng Hạ tầng Mở và Tương tác (Open and Interoperable Infrastructure)
 

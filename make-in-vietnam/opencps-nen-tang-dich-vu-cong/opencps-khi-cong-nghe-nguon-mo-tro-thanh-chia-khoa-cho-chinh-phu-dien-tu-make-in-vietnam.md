@@ -6,7 +6,7 @@ Trong nhiều năm, việc triển khai các hệ thống dịch vụ công tr�
 
 Bối cảnh này đòi hỏi một giải pháp mang tính chiến lược, đồng bộ và bền vững. Tinh thần của Nghị quyết số 36a/NQ-CP về Chính phủ điện tử đã trở thành kim chỉ nam, thúc đẩy sự ra đời của một sáng kiến đột phá nhằm giải quyết triệt để các bài toán công nghệ tồn đọng, mở đường cho một thế hệ Chính phủ điện tử mới, thực sự hiệu quả và lấy người dân, doanh nghiệp làm trung tâm.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. OpenCPS ra đời: Một Sáng kiến Chiến lược được Nhà nước Hỗ trợ
 

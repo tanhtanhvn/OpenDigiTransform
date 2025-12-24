@@ -2,7 +2,7 @@
 
 Nguồn mở đã vượt qua vai trò là một công cụ kỹ thuật đơn thuần để trở thành một yếu tố chiến lược không thể thiếu trong việc xây dựng các chính phủ số nhanh nhẹn, hiệu quả và có chủ quyền. Trong bối cảnh cạnh tranh công nghệ ngày càng gay gắt trên toàn cầu, việc làm chủ công nghệ không chỉ là lợi thế cạnh tranh mà còn là nền tảng của chủ quyền số quốc gia. Các quốc gia tiên phong đã chứng minh rằng một chiến lược nguồn mở bài bản có thể thúc đẩy đổi mới sáng tạo, tăng cường hợp tác công-tư và xây dựng nền tảng công nghệ linh hoạt, bền vững. Bài viết này đưa ra năm khuyến nghị hành động cụ thể cho các nhà lãnh đạo chính phủ để hiện thực hóa những lợi ích chiến lược này một cách chủ động và có hệ thống, củng cố vững chắc chủ quyền quốc gia trong kỷ nguyên số.
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Xây dựng Chiến lược Nguồn mở Toàn diện
 

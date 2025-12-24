@@ -8,7 +8,7 @@ Tuy nhiên, bên dưới bề mặt của những xu hướng hào nhoáng này,
 
 Bài viết này sẽ khám phá bốn trong số những kết luận đáng ngạc nhiên và có tác động mạnh mẽ nhất từ các phân tích gần đây. Chúng ta sẽ cùng nhau tìm hiểu xem các giả định của mình về công nghệ và sự tiến bộ đang bị thách thức như thế nào khi chúng ta hướng tới tương lai.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Nghịch lý của sự "Mở": Càng Mở Lại Càng Đóng?
 

@@ -6,7 +6,7 @@ Trong một thế giới ngày càng phân cực, nơi sự ngờ vực đối v
 
 Trong bối cảnh mà các giá trị cốt lõi của "Xã hội Mở" đang bị chính sự cởi mở của nó thách thức, CBPP đưa ra một tầm nhìn cấp tiến. Đây không chỉ là một phương thức sản xuất phần mềm miễn phí, mà còn là một mô hình kinh tế-chính trị tiềm năng, một câu trả lời cho những thách thức về chủ quyền số, quyền lực của Big Tech và sự xói mòn lòng tin. Bài viết này sẽ phân tích sâu các đặc điểm của CBPP, đặt nó trong bối cảnh các phong trào "mở" rộng lớn hơn, làm sáng tỏ sự khác biệt căn bản so với chủ nghĩa tư bản truyền thống, và đánh giá những thách thức thực tế mà nó phải đối mặt trong một thế giới đầy rủi ro.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Định Nghĩa Commons-Based Peer Production (CBPP)
 

@@ -10,7 +10,7 @@ Mục tiêu của chúng ta không phải là dự đoán chính xác điều g�
 
 Câu hỏi không nằm ở việc liệu chúng ta có thay đổi gen hay không, mà là chúng ta sẽ sử dụng công nghệ này như thế nào. Hãy bắt đầu hành trình của chúng ta với một câu chuyện về hy vọng và sự phức tạp trong lĩnh vực y tế.
 
-<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Câu Chuyện Y Tế: Liệu Pháp Cuối Cùng
 

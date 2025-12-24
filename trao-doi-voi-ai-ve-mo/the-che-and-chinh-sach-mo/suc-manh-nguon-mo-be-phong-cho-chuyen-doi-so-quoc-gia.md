@@ -4,7 +4,7 @@
 
 Trong bối cảnh nền kinh tế số toàn cầu, Phần mềm Nguồn mở (OSS) đã vượt qua vai trò công cụ công nghệ để trở thành một động lực kinh tế chiến lược, với hệ sinh thái được ước tính có giá trị lên tới 8,8 nghìn tỷ đô la. Giữa cuộc đua chuyển đổi số, OSS nổi lên không chỉ đơn thuần là một giải pháp kỹ thuật, mà còn là một phương tiện để các chính phủ đạt được chủ quyền số, hiệu quả hoạt động và thúc đẩy đổi mới. Tài liệu này sẽ đi sâu giải thích các khái niệm cốt lõi, phân tích lợi ích về cách các chính phủ trên thế giới đang tận dụng sức mạnh của nguồn mở để xây dựng một tương lai số bền vững và tự chủ.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Mở Lối Vào Thế Giới Nguồn Mở: Các Khái Niệm Cốt Lõi
 

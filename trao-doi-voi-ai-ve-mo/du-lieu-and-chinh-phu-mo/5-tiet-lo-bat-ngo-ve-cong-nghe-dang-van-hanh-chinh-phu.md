@@ -16,7 +16,7 @@ Mục đích của nó trong GovTech là cho phép các nhà chức trách mô p
 
 Hàm ý chiến lược ở đây là một sự thay đổi nền tảng trong mô hình vận hành: chính phủ chuyển từ mô hình quản trị "thử và sai" sang mô hình "dự đoán dựa trên dữ liệu", giúp tiết kiệm hàng tỷ đô la chi phí, giảm thiểu rủi ro và xây dựng những thành phố thông minh hơn, an toàn hơn.
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Từ Phản Ứng Bị Động Đến Quản Trị Tiên Đoán: AI, IoT và Điện Toán Biên Đang Thay Đổi Cuộc Chơi
 
@@ -26,7 +26,7 @@ Hãy tưởng tượng một cây cầu được gắn các cảm biến IoT li�
 
 Điều này có nghĩa là camera có thể tự phát hiện một vụ tai nạn và ngay lập tức điều chỉnh đèn tín hiệu ở các giao lộ lân cận để điều hướng dòng xe, tất cả chỉ trong vài mili giây. Nó cũng tăng cường quyền riêng tư bằng cách xử lý dữ liệu nhạy cảm tại chỗ thay vì gửi đi xa. Sự thay đổi này có ý nghĩa sâu sắc: AI không chỉ "dự đoán" sự việc, mà còn có khả năng "hành động" tức thì và an toàn ngay tại nơi cần thiết, tạo ra một chính phủ có thể lường trước và ngăn chặn vấn đề thay vì chỉ đi "dọn dẹp" hậu quả.
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 #### 3. Không Chỉ Là Tiền Ảo: Blockchain Đang Trở Thành "Công Chứng Viên Kỹ Thuật Số"
 
@@ -36,7 +36,7 @@ Về bản chất, Blockchain là một cuốn sổ cái kỹ thuật số đư�
 
 Một tiết lộ thú vị là các chính phủ không sử dụng blockchain công khai như Bitcoin. Thay vào đó, họ chủ yếu dựa vào Private Blockchain (chuỗi khối riêng tư) và Consortium Blockchain (chuỗi khối liên minh). Điều này giúp cân bằng giữa tính minh bạch và nhu cầu kiểm soát, bảo mật dữ liệu nhạy cảm của quốc gia. Không giống như Bitcoin, nơi bất kỳ ai cũng có thể tham gia, các hệ thống của chính phủ yêu cầu quyền truy cập được cấp phép (permissioned), đảm bảo chỉ các cơ quan có thẩm quyền mới có thể xác thực giao dịch.
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 #### 4. Cuộc Cách Mạng Thầm Lặng: Công Chức Nhà Nước Tự Xây Dựng Ứng Dụng Mà Không Cần Lập Trình
 
@@ -46,7 +46,7 @@ Nền tảng LC/NC cung cấp các giao diện đồ họa trực quan, cho phé
 
 Điều này hoàn toàn trái ngược với mô hình cũ, nơi một ý tưởng cải tiến nhỏ có thể mất hàng năm trời và ngân sách khổng lồ để đi qua các vòng phê duyệt và phát triển phần mềm tập trung. Giờ đây, cuộc cách mạng diễn ra từ dưới lên. Đây là một bước tiến mang tính cách mạng vì nó dân chủ hóa việc tạo ra công nghệ, trao quyền cho các công chức để tự đổi mới và cải thiện hiệu quả công việc của chính mình.
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 #### 5. Nền Tảng Của Chính Phủ Số Không Phải Là Bí Mật: Sức Mạnh Của Mã Nguồn Mở
 
