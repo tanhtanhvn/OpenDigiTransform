@@ -68,6 +68,7 @@
 
 ## Hoạt động cộng đồng
 
+* [Hoạt động Hội VFOSSA](https://vfossa.vn/)
 * [Cuộc thi OLP Phần mềm Nguồn mở](hoat-dong-cong-dong/cuoc-thi-olp-phan-mem-nguon-mo.md)
 
 ## MAKE IN VIETNAM
